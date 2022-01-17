@@ -1,6 +1,6 @@
 -Hi, I’m Psymon  
 -I’m interested in small application, games and just fun things to do in general  
--I’ve absolved a JavaScript course at WIFI Tirol and now I'm a certified Software Developer with JS  
+-I’ve absolved a JavaScript course at WIFI Tirol and am a certified Software Developer with JS  
 -This also included a little bit of Python and PHP  
 -I've also worked a with MySQL, Databases and NodeJS  
 -I’m looking to collaborate on Webdevelopment, smaller applications and smaller games  
