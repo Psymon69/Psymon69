@@ -5,7 +5,7 @@
 -I've also worked a with MySQL, Databases and NodeJS  
 -I’m looking to collaborate on Webdevelopment, smaller applications and smaller games  
 ---
--I'll commit small projects and fun stuff here trying to improve myself and learn more by doing!   
+-I'll commit small projects and fun stuff here trying to improve myself and learn more by doing!  
 
 <!---
 Psymon69/Psymon69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
